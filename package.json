@@ -3,7 +3,7 @@
 	"version": "1.0.0",
 	"description": "backend for wuxiastore",
 	"main": "index.ts",
-	"repository": "git@github.com:dipmanet/wuxiastore-backend.git",
+	"repository": "https://github.com/dipmanet/wuxiastore-backend.git",
 	"author": "DipMan <dipman2021@gmail.com>",
 	"license": "MIT",
 	"scripts": {
